@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8726da7303fdcbc78295a87222164df",
+    "revision": "528c3bc372cdcac8144c3ea569280b81",
     "url": "/tradityui/index.html"
   },
   {
-    "revision": "9830c166e0bb8f7362df",
+    "revision": "fe5064895f6f0bd9001c",
     "url": "/tradityui/static/css/2.6011fe8e.chunk.css"
   },
   {
-    "revision": "ac95c150093913c896b4",
+    "revision": "171ddfb3b7e6e20b1c4d",
     "url": "/tradityui/static/css/main.00164d8f.chunk.css"
   },
   {
-    "revision": "9830c166e0bb8f7362df",
-    "url": "/tradityui/static/js/2.983244b8.chunk.js"
+    "revision": "fe5064895f6f0bd9001c",
+    "url": "/tradityui/static/js/2.b4fa448c.chunk.js"
   },
   {
     "revision": "405f6a80142a1cdaa0bd4b27e2dbc8e2",
-    "url": "/tradityui/static/js/2.983244b8.chunk.js.LICENSE.txt"
+    "url": "/tradityui/static/js/2.b4fa448c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac95c150093913c896b4",
-    "url": "/tradityui/static/js/main.98e5cb27.chunk.js"
+    "revision": "171ddfb3b7e6e20b1c4d",
+    "url": "/tradityui/static/js/main.d7790aa0.chunk.js"
   },
   {
     "revision": "9f2b8bb54e50c9107f44",
@@ -160,6 +160,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/customize-icon.7c1a6f97.svg"
   },
   {
+    "revision": "1d06854d2a21b545ca28eb11715da0cf",
+    "url": "/tradityui/static/media/data.1d06854d.svg"
+  },
+  {
     "revision": "ee1c0c55aa99cd9524551ef19b86aad3",
     "url": "/tradityui/static/media/design-illustration-2.ee1c0c55.svg"
   },
@@ -192,6 +196,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/fast-icon.6c9e80ee.svg"
   },
   {
+    "revision": "a6ab15dbb295a81d14ebb79663815356",
+    "url": "/tradityui/static/media/finance.a6ab15db.svg"
+  },
+  {
     "revision": "61eae8b2845b7d35c3d58786733ea3d2",
     "url": "/tradityui/static/media/github-icon.61eae8b2.svg"
   },
@@ -204,8 +212,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/hero-screenshot-2.31c082be.png"
   },
   {
-    "revision": "f5345f7c8bcdea8b32e86e65b5d5f577",
-    "url": "/tradityui/static/media/imge.f5345f7c.svg"
+    "revision": "52aaa1c66b7e4393c206d237a093ebe9",
+    "url": "/tradityui/static/media/invest.52aaa1c6.svg"
   },
   {
     "revision": "fa5666fa9730a9f927a76edfa9b53e2b",
@@ -320,8 +328,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/svg-decorator-blob-1.ec52da39.svg"
   },
   {
-    "revision": "159be2476eedd8b63bb0c7e0a58d0e47",
-    "url": "/tradityui/static/media/svg-decorator-blob-3.159be247.svg"
+    "revision": "dbdc4e5895c9c08c1eec32cd263efccd",
+    "url": "/tradityui/static/media/svg-decorator-blob-3.dbdc4e58.svg"
   },
   {
     "revision": "06b7e9297b931c8f3c729d9666faf31f",
@@ -354,6 +362,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5ae3fe7a0d10e5c14ec0575db276dcda",
     "url": "/tradityui/static/media/team-illustration-2.5ae3fe7a.svg"
+  },
+  {
+    "revision": "dbdc4e5895c9c08c1eec32cd263efccd",
+    "url": "/tradityui/static/media/team.dbdc4e58.svg"
   },
   {
     "revision": "4e2c0a1d4a1adb1a99a69310e06fbbc7",
