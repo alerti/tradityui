@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "528c3bc372cdcac8144c3ea569280b81",
+    "revision": "22249467f2f29ec5357a25a9789816e6",
     "url": "/tradityui/index.html"
   },
   {
-    "revision": "fe5064895f6f0bd9001c",
+    "revision": "178a87b6378beee044b1",
     "url": "/tradityui/static/css/2.6011fe8e.chunk.css"
   },
   {
-    "revision": "171ddfb3b7e6e20b1c4d",
+    "revision": "6406444da9c7bd5dc630",
     "url": "/tradityui/static/css/main.00164d8f.chunk.css"
   },
   {
-    "revision": "fe5064895f6f0bd9001c",
-    "url": "/tradityui/static/js/2.b4fa448c.chunk.js"
+    "revision": "178a87b6378beee044b1",
+    "url": "/tradityui/static/js/2.e5664937.chunk.js"
   },
   {
     "revision": "405f6a80142a1cdaa0bd4b27e2dbc8e2",
-    "url": "/tradityui/static/js/2.b4fa448c.chunk.js.LICENSE.txt"
+    "url": "/tradityui/static/js/2.e5664937.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "171ddfb3b7e6e20b1c4d",
-    "url": "/tradityui/static/js/main.d7790aa0.chunk.js"
+    "revision": "6406444da9c7bd5dc630",
+    "url": "/tradityui/static/js/main.c3bc6d7e.chunk.js"
   },
   {
     "revision": "9f2b8bb54e50c9107f44",
