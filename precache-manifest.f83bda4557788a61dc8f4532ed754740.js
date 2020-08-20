@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "252e82f8d8ff2da6b9587b3e123c821a",
+    "revision": "c546fce7a7fbe2a17bb71978937f44e4",
     "url": "/tradityui/index.html"
   },
   {
-    "revision": "178a87b6378beee044b1",
+    "revision": "f2b20f016dcf96c8ea42",
     "url": "/tradityui/static/css/2.6011fe8e.chunk.css"
   },
   {
-    "revision": "6406444da9c7bd5dc630",
-    "url": "/tradityui/static/css/main.00164d8f.chunk.css"
+    "revision": "9713cd11a9e440385c64",
+    "url": "/tradityui/static/css/main.29024a30.chunk.css"
   },
   {
-    "revision": "178a87b6378beee044b1",
-    "url": "/tradityui/static/js/2.e5664937.chunk.js"
+    "revision": "f2b20f016dcf96c8ea42",
+    "url": "/tradityui/static/js/2.7415ebc4.chunk.js"
   },
   {
     "revision": "405f6a80142a1cdaa0bd4b27e2dbc8e2",
-    "url": "/tradityui/static/js/2.e5664937.chunk.js.LICENSE.txt"
+    "url": "/tradityui/static/js/2.7415ebc4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6406444da9c7bd5dc630",
-    "url": "/tradityui/static/js/main.c3bc6d7e.chunk.js"
+    "revision": "9713cd11a9e440385c64",
+    "url": "/tradityui/static/js/main.e430dc2a.chunk.js"
   },
   {
     "revision": "9f2b8bb54e50c9107f44",
@@ -196,10 +196,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/fast-icon.6c9e80ee.svg"
   },
   {
-    "revision": "a6ab15dbb295a81d14ebb79663815356",
-    "url": "/tradityui/static/media/finance.a6ab15db.svg"
-  },
-  {
     "revision": "61eae8b2845b7d35c3d58786733ea3d2",
     "url": "/tradityui/static/media/github-icon.61eae8b2.svg"
   },
@@ -224,8 +220,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/log-in.6c3aec23.svg"
   },
   {
-    "revision": "60e77202beb2649ae04467f515de60ad",
-    "url": "/tradityui/static/media/login-illustration.60e77202.svg"
+    "revision": "184441ee25ba65a45d897fd4d6b91199",
+    "url": "/tradityui/static/media/login.184441ee.svg"
   },
   {
     "revision": "0a4fa34ed3a8384ba623ca8939f8b679",
@@ -300,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tradityui/static/media/shop-icon.6c8f89cc.svg"
   },
   {
-    "revision": "527babdb98bf8a457080cb1de19ebfa1",
-    "url": "/tradityui/static/media/signup-illustration.527babdb.svg"
+    "revision": "132161f98ccc55876a9115f8ac4f354c",
+    "url": "/tradityui/static/media/signup.132161f9.svg"
   },
   {
     "revision": "345871b443e4f5f841bedccf11a61859",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tradityui/precache-manifest.11ca47687bb098c793dc69c670cb46d7.js"
+  "/tradityui/precache-manifest.f83bda4557788a61dc8f4532ed754740.js"
 );
 
 self.addEventListener('message', (event) => {
